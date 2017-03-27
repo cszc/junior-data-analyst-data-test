@@ -20,7 +20,7 @@ These four folders contain the results from four models: Random Forest, Logistic
 
  `features.csv` contains the features importances for each model, `models.csv` contains performance metrics of each model averaged over three test/train splits, and `splits.csv` contains the performance for each individual split for each model. More information can be found inside of Data-analyst-test_Part-2.
 
-The original files are prefixed with `orig_`. The original data and instructions are contained in `orig_Cars_mileage.csv` and `orig_README.md`, respectively. The original repo can be found [here](https://github.com/eneedham/data-analyst-data-test).
+The original data and instructions are contained in `Cars_mileage.csv` and `orig_README.md`, respectively. The original repo can be found [here](https://github.com/eneedham/data-analyst-data-test).
 
 ### Environment & Dependencies
 #### Main Dependencies
