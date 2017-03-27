@@ -37,9 +37,11 @@ The full dependency list is stored in `environment.yml`.
 To install, first download [Anaconda or Miniconda](https://conda.io/docs/install/quick.html).
 
 Then download the `environment.yml` file. You can install the environment with the following command:
+
 `conda env create -f environment.yml`
 
 After you have installed Anaconda, you can run the jupyter notebook with:
+
 `jupyter notebook`
 
 More documentation [here](http://jupyter.readthedocs.io/en/latest/install.html).
